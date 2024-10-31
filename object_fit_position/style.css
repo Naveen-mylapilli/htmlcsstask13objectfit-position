@@ -1,0 +1,157 @@
+body{
+    background-color: rgb(23, 56, 124);
+    
+}
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+img{
+    border: 5px solid rgb(63, 52, 52);
+}
+.img1{
+
+    width: 90px;
+    height: 700px;
+    object-fit: none;
+    object-position: 0px 0px;
+    
+    
+}
+.img2{
+
+    width: 90px;
+    height: 700px;
+    object-fit: none;
+    object-position: -85px 0px;
+    
+}
+.img3{
+
+    width: 90px;
+    height: 700px;
+    object-fit: none;
+    object-position: -150px 0px;
+    
+}
+.img4{
+
+    width: 90px;
+    height: 700px;
+    object-fit: none;
+    object-position: -225px 0px;
+    
+}
+.img5{
+
+    width: 90px;
+    height: 700px;
+    object-fit: none;
+    object-position: -290px 0px;
+    
+}
+.flag{
+    width: 300px;
+    height: 700px;
+    object-fit: fill;
+    opacity: 0.05;
+
+}
+.img6{
+
+    width: 90px;
+    height: 700px;
+    object-fit: none;
+    object-position: -400px 0px;
+    
+}
+
+.img7{
+
+    width: 90px;
+    height: 700px;
+    object-fit: none;
+    object-position: -490px 0px;
+    
+}
+.img8{
+
+    width: 90px;
+    height: 700px;
+    object-fit: none;
+    object-position: -625px 0px;
+    
+}
+.img9{
+
+    width: 90px;
+    height: 700px;
+    object-fit: none;
+    object-position: -750px 0px;
+    
+}
+.img10{
+
+    width: 90px;
+    height: 700px;
+    object-fit: none;
+    object-position: -900px 0px;
+    
+}
+.img11{
+
+    width: 90px;
+    height: 700px;
+    object-fit: none;
+    object-position: -975px 0px;
+    
+}
+.img12{
+
+    width: 90px;
+    height: 700px;
+    object-fit: none;
+    object-position: -1050px 0px;
+    
+}
+.img13{
+
+    width: 80px;
+    height: 700px;
+    object-fit: none;
+    object-position: -1110px 0px;
+    
+}
+.cover{
+        width: 200px;
+        height: 300px;
+        object-fit: cover;
+}
+
+.contain{
+
+    width: 200px;
+        height: 300px;
+        object-fit: contain;
+}
+.fill{
+
+    width: 200px;
+        height: 300px;
+        object-fit: fill;
+}
+.none{
+
+    width: 200px;
+        height: 300px;
+        object-fit: none;
+}
+.scaledown{
+
+    width: 200px;
+        height: 300px;
+        object-fit: scale-down;
+}
+
